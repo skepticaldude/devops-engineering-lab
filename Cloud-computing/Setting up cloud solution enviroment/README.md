@@ -58,8 +58,11 @@ Managing permissions and rules at a group level is easier than keeping track of 
 
 > [!NOTE]
 > Data analysts need to access the data in the dataset or table, so they require the bigquery.dataViewer role at the proper level.
+> 
 > Queries in BigQuery are executed as an executable job.
+> 
 > So to submit a query, a data analyst would also need the bigquery.jobs.create permission.
+> 
 > This permission is included in the predefined bigquery.user role.
 
 You would give the data_analyst group access to this role in the Production project.
