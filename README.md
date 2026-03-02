@@ -40,5 +40,5 @@ i think i should be building more, but i'll give a summary of what i've understo
 * this is why linux is very important for every devops engr
 * i've decided to venture into cloud, SRE (site reliablility engineering), DevOps and sysadmin stuff.
 
-  # Progress Update 02 mar 2026
+# Progress Update 02 mar 2026
 * setting up my cloud solution enviroment using the cymbal superstore
