@@ -58,6 +58,10 @@ Managing permissions and rules at a group level is easier than keeping track of 
 
 // note this
 
+> [!TIP]
+> This text will be inside a box with a green border and icon.
+
+
 Data analysts need to access the data in the dataset or table, so they require the bigquery.dataViewer role at the proper level.
 
 Queries in BigQuery are executed as an executable job.
