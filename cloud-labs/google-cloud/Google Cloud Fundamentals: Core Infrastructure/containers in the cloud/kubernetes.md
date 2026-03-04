@@ -45,7 +45,7 @@ One way to run a container in a Pod in Kubernetes is to use the kubectl run comm
 >
 > A Deployment could represent a component of an application or even an entire app.
 
-To see a list of the running Pods in your project, run the command: $ kubectl get pods.
+To see a list of the running Pods in your project, run the command: `$ kubectl` get pods.
 
 Kubernetes creates a Service with a fixed IP address for your Pods, and a controller says "I need to attach
 
