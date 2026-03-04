@@ -27,21 +27,21 @@ As demand for your application increases, you have to copy an entire VM and boot
 > All that’s needed on each host is an OS kernel that supports containers and a container runtime.
 
 In essence, the OS is being virtualized.
-01:43
+
 It scales like PaaS but gives you nearly the same flexibility as IaaS.
-01:48
+
 This makes code ultra portable, and the OS and hardware can be treated as a black box.
-01:53
+
 So you can go from development, to staging, to production, or from your laptop to the cloud, without changing or rebuilding anything.
-02:03
+
 As an example, let’s say you want to scale a web server.
-02:07
+
 With a container, you can do this in seconds and deploy dozens or hundreds of them, depending on the size of your workload, on a single host.
-02:15
+
 That's just a simple example of scaling one container running the whole application on a single host.
-02:21
+
 However, you'll probably want to build your applications using lots of containers, each performing their own function like microservices.
-02:29
+
 If you build them this way and connect them with network connections, you can make them modular, deploy easily, and scale independently across a group of hosts.
-02:38
+
 The hosts can scale up and down and start and stop containers as demand for your app changes or as hosts fail.
