@@ -46,4 +46,12 @@ i think i should be building more, but i'll give a summary of what i've understo
 # Progress Update 04 mar 2026 
 * started a unique lab where ill be doing a lot of activities, ill see if i can list them out here
 * i worked with VMs, compute engine, SSH, i think this lab contains a lot of things that'll be needed for cloud computing and i've made attempts on it, almost completed it on the first try and i think i'm getting the hang of it
-* i also understood the concept of storage and how different storage plans or (may'be i'll get a better term for this later) but i learnt about different types 
+* i also understood the concept of storage and how different storage plans or (may'be i'll get a better term for this later) but i learnt about different types
+
+## Progress Update 05 mar 2026
+
+``` text
+This is me testing out the text feature
+i'm still working the lab i menvtioned yesterday, i'm yet to complete it but i attempted a quiz yesterday which i struggled with a little but i'm over that now 
+this is expected to output in a box type thing (a new markdown feature i learnt)
+```
