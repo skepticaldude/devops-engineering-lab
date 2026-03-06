@@ -55,3 +55,6 @@ This is me testing out the text feature
 i'm still working the lab i menvtioned yesterday, i'm yet to complete it but i attempted a quiz yesterday which i struggled with a little but i'm over that now 
 this is expected to output in a box type thing (a new markdown feature i learnt)
 ```
+
+### Progress update 06 mar 2026
+i think im getting familiar with the terms as we proceed
