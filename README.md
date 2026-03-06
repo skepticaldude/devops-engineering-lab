@@ -58,3 +58,13 @@ this is expected to output in a box type thing (a new markdown feature i learnt)
 
 ### Progress update 06 mar 2026
 i think im getting familiar with the terms as we proceed
+i use my sticky notes a lot
+i now understand why devs care about screen size and some have so many screens 
+
+i completed a google cloud lab where i did the following; 
+
+* deployed a web server VM instance
+
+* created a cloud storage bucket using the gcloud storage command line
+
+* created the cloud SQL instance
