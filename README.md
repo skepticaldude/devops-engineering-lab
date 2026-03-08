@@ -74,10 +74,23 @@ i completed a google cloud lab where i did the following;
 
 ### Progress update 07 mar 2026
 > still getting familiar with a lot
+> 
 > understand how the images thing works
+> 
 > i think i deployed my first container today
-> i think im understanding how the requests thing works, it's just to keep the workflow as smooth as possible
+> 
+> i think i'm understanding how the requests thing works, it's just to keep the workflow as smooth as possible
 
 i completed a google clould lab called `CLOUD RUN` 
-here's the detail below; 
+here's the detail below.
+
+In this lab, you learn to:
+
+* Enable the Cloud Run and Artifact Registry APIs.
+*	Create a simple Node.js application that can be deployed as a serverless, stateless container.
+*	Create an Artifact Registry repository.
+*	Containerize your application and upload it to Artifact Registry.
+*	Deploy a containerized application on Cloud Run.
+*	Delete unneeded images to avoid incurring extra storage charges.
+
 
