@@ -1,5 +1,6 @@
 >[!NOTE]
 > this is from the video
+>
 > it basically contains everything we'll be working with on Google SRE Culture
 
 Hi, I'm Kiran Varma, a curriculum developer at Google Cloud.
