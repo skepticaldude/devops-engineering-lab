@@ -52,7 +52,7 @@ i think i should be building more, but i'll give a summary of what i've understo
 
 ``` text
 This is me testing out the text feature
-i'm still working the lab i menvtioned yesterday, i'm yet to complete it but i attempted a quiz yesterday which i struggled with a little but i'm over that now 
+i'm still working the lab i mentioned yesterday, i'm yet to complete it but i attempted a quiz yesterday which i struggled with a little but i'm over that now 
 this is expected to output in a box type thing (a new markdown feature i learnt)
 ```
 
