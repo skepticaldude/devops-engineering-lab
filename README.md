@@ -98,7 +98,7 @@ In this lab, i learnt to:
 i'm thinking about creating a site on a vm and deploying it, i don't know if i'll come back to this to actualize it
 so far i'm still grounded on what i'm doing 
 
-learnt about `prompt programming` and how it is important to be precise with you prompt and detail it properly and when inputting commands into generative ai don't `verbose` 
+learnt about `prompt programming` and how it is important to be precise with you prompt and detail it properly and when inputting commands into generative ai don't be `verbose`, "Avoid verbosity when writing prompts for generative AI."
 
 it's all making sense as we proceed 
 
