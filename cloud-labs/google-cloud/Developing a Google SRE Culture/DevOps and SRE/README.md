@@ -1,45 +1,45 @@
 So what is DevOps?
-00:07
+
 To understand what it is, you first need to understand why DevOps exists.
-00:12
+
 Traditionally, IT teams consist of developers and operators.
-00:17
+
 Developers are responsible for writing code for systems and operators are responsible for ensuring that those systems operate reliably, so customers are happy.
-00:26
+
 Developers are expected to be agile and are often pushed to write and deploy new code as quickly as possible.
-00:33
+
 Essentially, developers want to work faster, innovating, and succeeding or failing quickly.
-00:40
+
 This resulted in developers throwing their code over the wall to operators who then had to
-00:45
+
 deal with code that was written without much understanding of how it would run in production.
-00:50
+
 Operators who are expected to keep systems stable would prefer to work slower, focusing on reliability and consistency.
-00:58
+
 Quite understandably, this way of working wasn't sustainable between these two groups.
-01:04
+
 Their priorities caused tension between the two teams, and they were not necessarily aligned with the needs of the business.
-01:11
+
 As a way to knock down the wall and close the gap between developers and operators, a culture instead of practices known as DevOps was born.
 01:19
 Let's take a look at how Google categorizes DevOps.
-01:23
+
 There are five key areas.
-01:25
+
 The first is to reduce organizational silos.
-01:28
+
 You can increase and foster collaboration by breaking down barriers across teams.
-01:33
+
 Second, you need to accept failure is normal.
-01:37
+
 Computers are inherently unreliable, so you can't expect perfect execution, and when you introduce humans into the system, you get even more imperfection.
-01:47
+
 Things failing will inevitably become part of the process.
-01:51
+
 Third, you'll want to implement gradual change.
-01:55
+
 Small incremental changes are easier to review, and if a gradual change does release a bug
-02:00
+
 in production, it allows you to reduce the time to recover making it simple to roll back.
 02:07
 Fourth, you need to leverage tooling and automation.
