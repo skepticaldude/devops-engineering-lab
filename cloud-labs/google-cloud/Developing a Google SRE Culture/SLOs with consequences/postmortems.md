@@ -28,7 +28,7 @@ To avoid doing this, SREs take a systematic approach to ensure that the team col
 >
 > A postmortem's ultimate deliverable is a written record of the incident that consists of specific parts.
 >
-<u> Details of the incident and its timeline. </u>
+<ins> Details of the incident and its timeline. </ins>
 
 * The actions taken to mitigate or resolve the incident.
 
