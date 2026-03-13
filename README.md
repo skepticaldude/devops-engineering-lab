@@ -104,7 +104,7 @@ it's all making sense as we proceed
 
 ### progress update 12 march 2026
 
-i've not touched this my training for a while now but i'll give an overview of what have happened so far; 
+i've not used a lab for while now but i'll give an overview of what have happened so far; 
 ive understood more clearly that devops is a culture while Site Reliablility Engineering is more of a practice of that DevOps culture which is simply being a middleman for the development and operations team in an organisation 
 
 currently im learning cloud, how to build scalable system with low cost and efficeient running of infrastructure 
