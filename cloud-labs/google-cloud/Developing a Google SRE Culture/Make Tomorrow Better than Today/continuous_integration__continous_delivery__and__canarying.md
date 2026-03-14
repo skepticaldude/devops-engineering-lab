@@ -92,13 +92,11 @@ So what exactly does this mean?
 
 So what are requirements for canarying?
 
-1. The canary population should be large enough to be a representative subset when compared to the control population.
+1. The canary population should be large enough to be a representative subset when compared to the control population. The difference between the canary and the control population should, to the greatest extent, practically possible be only the production change that you are testing.
 
-2. The difference between the canary and the control population should, to the greatest extent, practically possible be only the production change that you are testing.
+2. The canary population should be small enough to not endanger the quality of service as a whole if the canary is broken.
 
-3. The canary population should be small enough to not endanger the quality of service as a whole if the canary is broken.
-
-4. The canary deployment should not be overly complicated, and impose significant cognitive load on the operator.
+3. The canary deployment should not be overly complicated, and impose significant cognitive load on the operator.
 
 In other words,
 1. it should be easy enough to reason about the canary process,
