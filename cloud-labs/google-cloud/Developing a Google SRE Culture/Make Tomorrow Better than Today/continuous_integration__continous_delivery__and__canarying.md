@@ -13,13 +13,17 @@ Although change is risky, it's less disruptive to users when rolled out in small
 Google SRE culture focuses on practices of continuous integration, continuous delivery, or CI/CD, and canarying.
 
 Let's first define CI/CD.
->[!Note]
->Continuous integration, usually refers to building, integrating, and testing code within the development environment.
+
+## Continuous Integration
+
+Continuous integration, usually refers to building, integrating, and testing code within the development environment.
 
 The main goal of this practice is to enable engineers to work on code and test more often.
-01:16
+
 As a result, code quality increases and critical issues can be avoided earlier.
-01:23
+
+## Continuous Delivery
+
 Continuous delivery just means that you can deploy to production frequently, but may choose not to, usually due to businesses preferring a slower rate of deployment.
 01:34
 This stage involves continuous integration, testing automation, and deployment automation.
