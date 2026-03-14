@@ -41,53 +41,55 @@ Continuous integration and continuous delivery fill in the middle with code to t
 * It helps to overcome agile transformation challenges.
 
 * It minimizes code integration headaches.
-02:24
-It reduces human error.
-02:27
-It promotes higher code quality.
-02:30
-It's easier to recover after something goes wrong.
-02:34
-You can automate everything, which saves time and money.
-02:38
-It provides visibility on project completion.
-02:41
-Time to market is shorter.
-02:44
-It provides you with more metrics to review and act on.
-02:48
+
+* It reduces human error.
+
+* It promotes higher code quality.
+
+* It's easier to recover after something goes wrong.
+
+* You can automate everything, which saves time and money.
+
+* It provides visibility on project completion.
+
+* Time to market is shorter.
+
+* It provides you with more metrics to review and act on.
+
+## Canarying
+
 The other practice SREs use for implementing gradual change is canarying.
-02:54
+
 You may have heard of the phrase "Canary in a coal mine," which is a metaphor for an advanced warning of danger.
-03:00
+
 Coal miners would bring canaries into coal mines to detect dangerous gases.
-03:05
+
 Canaries are smaller and breathe faster than humans, so if they died, the miners knew there was danger.
-03:12
+
 Let's simplify this metaphor a bit.
-03:15
-We have something large that we don't want to harm.
-03:18
-We have something small that we are okay losing.
-03:22
-The small thing detects danger as we go into the unknown.
-03:26
+
+* We have something large that we don't want to harm.
+
+* We have something small that we are okay losing.
+
+* The small thing detects danger as we go into the unknown.
+
 Now let's see how this relates in terms of SRE practice in production systems.
-03:31
-We have a large service that we want to sustain.
-03:35
-We are okay losing a small portion of it.
-03:38
-We employ a production change with unknown impact to the small portion to detect danger.
-03:44
+
+* We have a large service that we want to sustain.
+
+* We are okay losing a small portion of it.
+
+* We employ a production change with unknown impact to the small portion to detect danger.
+
 So what exactly does this mean?
-03:47
-Canarying is deploying a change in service to a group of users who don't know
-03:51
+
+> Canarying is deploying a change in service to a group of users who don't know
+
 they are receiving the change, evaluating the impact to that group, then deciding how to proceed.
-03:56
+
 If the change contains bugs, the cost is much less than if it was rolled out to the whole system and can be reversed quickly.
-04:04
+
 So what are requirements for canarying?
 04:07
 The canary population should be large enough to be a representative subset when compared to the control population.
