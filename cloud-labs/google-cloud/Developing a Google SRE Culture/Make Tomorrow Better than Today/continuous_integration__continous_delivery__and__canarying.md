@@ -84,9 +84,7 @@ Now let's see how this relates in terms of SRE practice in production systems.
 
 So what exactly does this mean?
 
-> Canarying is deploying a change in service to a group of users who don't know
-
-they are receiving the change, evaluating the impact to that group, then deciding how to proceed.
+> Canarying is deploying a change in service to a group of users who don't know they are receiving the change, evaluating the impact to that group, then deciding how to proceed.
 
 If the change contains bugs, the cost is much less than if it was rolled out to the whole system and can be reversed quickly.
 
