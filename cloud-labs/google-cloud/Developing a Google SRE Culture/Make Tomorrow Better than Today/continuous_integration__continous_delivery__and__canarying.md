@@ -1,21 +1,21 @@
 In the world of IT, there are different perspectives on how to approach software development.
-00:11
+
 Culturally, developers tend to focus on moonshot thinking, where they can implement massive software changes that create breakthroughs and could fundamentally change society, but have a high likelihood of failing.
-00:22
+
 In contrast, SREs focus on gradual change, where they can test smaller changes that will have less impact on users if they fail.
-00:31
+
 The DevOps pillar of implementing gradual change is practically implemented by SREs in a few different ways to reduce the cost of failure.
-00:40
+
 SREs believe that change is best when it is small and frequent.
-00:45
+
 Although change is risky, it's less disruptive to users when rolled out in smaller waves.
-00:51
+
 Google SRE culture focuses on practices of continuous integration, continuous delivery, or CI/CD, and canarying.
-01:00
+
 Let's first define CI/CD.
-01:03
-Continuous integration, usually refers to building, integrating, and testing code within the development environment.
-01:11
+>[!Note]
+>Continuous integration, usually refers to building, integrating, and testing code within the development environment.
+
 The main goal of this practice is to enable engineers to work on code and test more often.
 01:16
 As a result, code quality increases and critical issues can be avoided earlier.
