@@ -1,5 +1,5 @@
-# DevOps-learning
-this is me documenting my DevOps journey here on github
+# DevOps, SRE, Cloud Documentation 
+this is me documenting my DevOps, SRE and cloud journey here on github
 ### Goal 
 Document DevOps projects and progress.
 
