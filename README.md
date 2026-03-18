@@ -1,7 +1,5 @@
 # DevOps, SRE, Cloud Documentation 
-this is me documenting my DevOps, SRE and cloud journey here on github
-### Goal 
-Document DevOps projects and progress.
+this is the documentation of my DevOps, SRE and cloud journey here on github
 
 # Table of contents 
 
@@ -19,24 +17,21 @@ Document DevOps projects and progress.
         * [Google Cloud Fundamentals: Core Infrastructure](https://github.com/skepticaldude/devops-learning/tree/main/cloud-labs/google-cloud/Google%20Cloud%20Fundamentals%3A%20Core%20Infrastructure)
         * [Developing Google SRE Culture](https://github.com/skepticaldude/devops-learning/tree/main/cloud-labs/google-cloud/Developing%20a%20Google%20SRE%20Culture)
         * 
-    * KodeKloud
     * [Cloud Computing](https://github.com/skepticaldude/devops-learning/tree/main/Cloud-computing)
-* SRE
-* Others 
-
-![Node.js CI](https://github.com/skepticaldude/devops-learning/actions/workflows/ci.yml/badge.svg) 
-still yet to work on this now im seeing it's a ![Node.js CI](hmmm/ci.yml/badge.svg) 
+    * [Gemini CLI](https://github.com/skepticaldude/devops-learning/tree/main/Gemini_CLI)
 
 
-# Progress Update 10 feb 2026
+
+## Progress Update 10 feb 2026
 * connected my first Virtual machine yesterday
 * understanding more on what cloud computing is all about 
 * and understanding that Devops is more of a culture than a live hard skill 
 
 
-# Progress Update 18 feb 2026
+## Progress Update 18 feb 2026
 it's been 8 days, i've lost touch with some concepts but i'm back on this 
-working with GCP and also gemini CLI
+working with GCP and also [gemini CLI](https://github.com/skepticaldude/devops-learning/tree/main/Gemini_CLI)
+
 ### GSP001
 * created a vm instance with GCP (Google Cloud Platform)
 * i installed an NGINX Web server
