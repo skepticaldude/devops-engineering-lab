@@ -38,10 +38,10 @@ working with GCP and also [gemini CLI](https://github.com/skepticaldude/devops-l
 * i also created a new instance with gcloud
 looked around the console, saw load balancers and kubernetes, IAM and some other things, still yet to grasp those contexts, but now, i can clearly create a VM instance (basically a virtual machine), how to attribute specifications to the machine i work with 
 
-# Progress Update 20 feb 2026
+## Progress Update 20 feb 2026
 Forgot to include an update yesterday but i did a few things and started my google clouds learning properly 
 
-# Progress Update 28 feb 2026
+## Progress Update 28 feb 2026
 Just realised i don't code so much on saturdays and this should change, i guess
 i think i should be building more, but i'll give a summary of what i've understood so far; 
 * DevOps is basically a culture, how to use tools, how to manage pipelines, automation, CI/CD (Continous Integration and deployment)
@@ -50,10 +50,10 @@ i think i should be building more, but i'll give a summary of what i've understo
 * this is why linux is very important for every devops engr
 * i've decided to venture into cloud, SRE (site reliablility engineering), DevOps and sysadmin stuff.
 
-# Progress Update 02 mar 2026
+## Progress Update 02 mar 2026
 * setting up my cloud solution enviroment using the cymbal superstore
 
-# Progress Update 04 mar 2026 
+## Progress Update 04 mar 2026 
 * started a unique lab where ill be doing a lot of activities, ill see if i can list them out here
 * i worked with VMs, compute engine, SSH, i think this lab contains a lot of things that'll be needed for cloud computing and i've made attempts on it, almost completed it on the first try and i think i'm getting the hang of it
 * i also understood the concept of storage and how different storage plans or (may'be i'll get a better term for this later) but i learnt about different types
@@ -66,7 +66,7 @@ i'm still working the lab i mentioned yesterday, i'm yet to complete it but i at
 this is expected to output in a box type thing (a new markdown feature i learnt)
 ```
 
-### Progress update 06 mar 2026
+## Progress update 06 mar 2026
 >
 > i think im getting familiar with the terms as we proceed
 >
@@ -82,7 +82,7 @@ i completed a google cloud lab where i did the following;
 
 * created the cloud SQL instance
 
-### Progress update 07 mar 2026
+## Progress update 07 mar 2026
 > still getting familiar with a lot
 > 
 > understand how the images thing works
@@ -103,7 +103,7 @@ In this lab, i learnt to:
 *	Deploy a containerized application on Cloud Run.
 *	Delete unneeded images to avoid incurring extra storage charges.
 
-### Progress update 10 mar 2026
+## Progress update 10 mar 2026
 
 i'm thinking about creating a site on a vm and deploying it, i don't know if i'll come back to this to actualize it
 so far i'm still grounded on what i'm doing 
@@ -112,7 +112,7 @@ learnt about `prompt programming` and how it is important to be precise with you
 
 it's all making sense as we proceed 
 
-### progress update 12 march 2026
+## progress update 12 march 2026
 
 i've not used a lab for while now but i'll give an overview of what have happened so far; 
 ive understood more clearly that devops is a culture while Site Reliablility Engineering is more of a practice of that DevOps culture which is simply being a middleman for the development and operations team in an organisation 
