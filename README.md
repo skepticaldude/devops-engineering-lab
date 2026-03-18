@@ -9,10 +9,18 @@ Document DevOps projects and progress.
    * [system health monitor script project](https://github.com/skepticaldude/devops-learning/tree/main/LabEx%2FSystem%20Health%20Monitor%20Script)
    * [Lists in python](https://github.com/skepticaldude/devops-learning/blob/main/python%2Flists_in_python.py)
 * [Bash](https://github.com/skepticaldude/devops-learning/tree/main/Bash)
-* Clouds
-    * Labex
+* Cloud 
+    * [Labex](https://github.com/skepticaldude/devops-learning/tree/main/LabEx)
+        * [Red Hat Enterprise Linux](https://github.com/skepticaldude/devops-learning/tree/main/LabEx/Red%20Hat%20Enterprise%20Linux)
+        * [Bash](https://github.com/skepticaldude/devops-learning/tree/main/LabEx/Bash)
     * Google Skill Lab
+        * [Cloud Shell Intro](https://github.com/skepticaldude/devops-learning/tree/main/cloud-labs/google-cloud/cloud-shell-intro)
+        * [Reliable Google cloud Infrastructure: Design and Process](https://github.com/skepticaldude/devops-learning/tree/main/cloud-labs/google-cloud/Reliable%20Google%20Cloud%20Infrastructure%3A%20Design%20and%20Process)
+        * [Google Cloud Fundamentals: Core Infrastructure](https://github.com/skepticaldude/devops-learning/tree/main/cloud-labs/google-cloud/Google%20Cloud%20Fundamentals%3A%20Core%20Infrastructure)
+        * [Developing Google SRE Culture](https://github.com/skepticaldude/devops-learning/tree/main/cloud-labs/google-cloud/Developing%20a%20Google%20SRE%20Culture)
+        * 
     * KodeKloud
+    * [Cloud Computing](https://github.com/skepticaldude/devops-learning/tree/main/Cloud-computing)
 * SRE
 * Others 
 
