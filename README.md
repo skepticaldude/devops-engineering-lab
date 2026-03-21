@@ -20,6 +20,7 @@ this is the documentation of my DevOps, SRE and cloud journey here on github
     * [Cloud Computing](https://github.com/skepticaldude/devops-learning/tree/main/Cloud-computing)
     * [Gemini CLI](https://github.com/skepticaldude/devops-learning/tree/main/Gemini_CLI)
 * [Progress Updates](https://github.com/skepticaldude/devops-learning/tree/main/Progress%20Updates)
+* [WSL First Server (Windows Subsystem for Linux)](https://github.com/skepticaldude/devops-learning/tree/main/WSL%20-%20First%20Server)
 
 
 
