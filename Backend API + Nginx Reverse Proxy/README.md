@@ -2,7 +2,7 @@
 # Backend API + Nginx Reverse Proxy (Practical)
 
 It covers:  
-- Python API  
+- [Python API](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#python-api-server-code)  
 - Running/testing  
 - Nginx reverse proxy setup  
 - Logs & explanation  
