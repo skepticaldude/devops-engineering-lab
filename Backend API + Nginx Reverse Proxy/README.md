@@ -3,7 +3,7 @@
 
 It covers:  
 - [Python API](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#python-api-server-code)  
-- [Running](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#run-the-api-server)/[testing](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#test-api-with-curl)  
+- [Running](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#run-the-api-server) & [testing](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#test-api-with-curl)  
 - [Nginx reverse proxy setup](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#nginx-configuration-update)  
 - [Logs & explanation](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#observations-logs) 
 - [Key takeaways](https://github.com/skepticaldude/devops-learning/tree/main/Backend%20API%20%2B%20Nginx%20Reverse%20Proxy#key-takeaways) & [real-world relevance](https://github.com/skepticaldude/devops-learning/blob/main/Backend%20API%20+%20Nginx%20Reverse%20Proxy/README.md#real-world-relevance)  
