@@ -6,7 +6,7 @@ It covers:
 - Running/testing  
 - Nginx reverse proxy setup  
 - Logs & explanation  
-- Key takeaways & real-world relevance  
+- [Key takeaways](https://github.com/skepticaldude/devops-learning/tree/main/Backend%20API%20%2B%20Nginx%20Reverse%20Proxy#key-takeaways) & real-world relevance  
 
 ## Objective
 Simulate a real-world backend system by building a local API and connecting it to Nginx using a reverse proxy.
