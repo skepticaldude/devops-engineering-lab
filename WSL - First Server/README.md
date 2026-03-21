@@ -1,4 +1,4 @@
-# WSL First Server Project
+# WSL First Server Project (Windows Subsystem for Linux) 
 
 ## Lesson Summary: Cloud/Infra Fundamentals (Date: 21 March 2026)
 
