@@ -23,6 +23,5 @@ this is the documentation of my DevOps, SRE and cloud journey here on github
 -------
 * [WSL First Server (Windows Subsystem for Linux)](https://github.com/skepticaldude/devops-learning/tree/main/WSL%20-%20First%20Server)
 * [Backend API + Nginx Reverse Proxy](https://github.com/skepticaldude/devops-learning/tree/main/Backend%20API%20%2B%20Nginx%20Reverse%20Proxy)
-
-
+* [API health monitoring with Cron](https://github.com/skepticaldude/devops-learning/tree/main/API%20Health%20Monitoring%20with%20Cron)
 
