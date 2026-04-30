@@ -121,7 +121,7 @@ ls /sbin
 
 | Directory | Purpose | Typical User |
 |---|---|---|
-| `/bin` | Basic user commands | All users |
+| `/bin` | Basic, regular user commands | All users |
 | `/sbin` | System/admin commands | Root/admin |
 
 ---
@@ -132,7 +132,7 @@ View SSH configuration files:
 ```bash
 ls /etc/ssh
 ```
-
+    
 ### Common Files
 | File | Purpose |
 |---|---|
