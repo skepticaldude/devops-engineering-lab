@@ -12,7 +12,5 @@ Still going over the basics; pwd, whoami, cd, ls and all that
 
 ### Shortcuts
 using `tab` key auto-completes flags or commands 
-|Shortcut|, |Description|
-|---|,|---|
-|tab key|,|auto completes flags or commands|
+
 
