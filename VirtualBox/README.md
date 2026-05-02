@@ -9,4 +9,5 @@ learnt a shortcut of using tab key to auto complete flags or commands
 
 i think ill create a sysadmin section soon 
 
+(File System Layout)[https://github.com/skepticaldude/devops-engineering-lab/blob/main/VirtualBox/FileSystemLayout.md]
 
