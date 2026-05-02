@@ -1,4 +1,3 @@
-````markdown
 # Linux Filesystem & Command Cheat Sheet (Beginner → Sysadmin View)
 
 ---
@@ -8,7 +7,7 @@
 ## Command
 ```bash
 ls /
-````
+
 
 ## Meaning
 
