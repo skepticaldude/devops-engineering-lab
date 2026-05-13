@@ -1,4 +1,3 @@
-````markdown
 # Linux Terminal Learning Notes
 
 ## Current Topic
@@ -25,7 +24,7 @@
 - Example:
   ```bash
   cd Doc
-````
+
 
 Pressing `Tab` may complete it to:
 
