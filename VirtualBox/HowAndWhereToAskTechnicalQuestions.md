@@ -1,4 +1,4 @@
-````markdown
+
 # Linux Sysadmin Learning Notes
 
 ## Topic: Finding Answers to Technical Questions
@@ -239,4 +239,3 @@ But understanding:
 ```text
 Why systems behave the way they do
 ```
-````
